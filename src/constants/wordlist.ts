@@ -1,2 +1,2 @@
 export const WORDS = [
-  'piano'
+  'piano','choir']
