@@ -1,5 +1,5 @@
-'export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
-export const GAME_TITLE = 'Mae''s Birthday'!
+export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
+
 export const WIN_MESSAGES = ['You really know Mae!', 'Awesome, you must know Mae!', 'Mae-hey-hey!!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
