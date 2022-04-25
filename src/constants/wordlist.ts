@@ -1,8 +1,8 @@
 export const WORDS = [
-  'piano',
-  'dance',
-  'rummy',
-  'snake',
-  'apple',
-  'moped',
-  'choir']
+  'plane',
+  'tears',
+  'maple',
+  'visit',
+  'greet',
+  'unite',
+  'years']
