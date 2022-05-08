@@ -1,7 +1,8 @@
 export const WORDS = [
   'cargo',
   'ships',
-  'teams',
+  'ocean',
+  'order',
   'remote',
   'change',
   'ports',
