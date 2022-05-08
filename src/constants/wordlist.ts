@@ -1,5 +1,11 @@
 export const WORDS = [
-  'laugh',
-  'games',
-  'cards']
+  'cargo',
+  'ships',
+  'teams',
+  'remote',
+  'change',
+  'ports',
+  'empty',
+  'coast',
+  'dairy']
   
