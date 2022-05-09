@@ -8,5 +8,5 @@ export const WORDS = [
   'ports',
   'empty',
   'coast',
-  'dairy']
+  'dairy',]
   
