@@ -3,8 +3,6 @@ export const WORDS = [
   'ships',
   'ocean',
   'order',
-  'remote',
-  'change',
   'ports',
   'empty',
   'coast',
