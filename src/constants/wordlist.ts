@@ -7,5 +7,7 @@ export const WORDS = [
   'empty',
   'coast',
   'dairy',
+  'milky',
+  'rover',
 ]
   
