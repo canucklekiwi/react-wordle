@@ -9,5 +9,6 @@ export const WORDS = [
   'dairy',
   'milky',
   'rover',
+  'lunch',
 ]
   
