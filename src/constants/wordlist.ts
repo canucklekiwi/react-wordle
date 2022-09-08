@@ -5,5 +5,7 @@ export const WORDS = [
   'flags',
   'crown',
   'horse',
+  'reign',
+  'ruler',
   ]
   
