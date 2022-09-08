@@ -1,14 +1,9 @@
 export const WORDS = [
-  'laugh',
-  'jokes',
-  'guess',
-  'rough',
-  'value',
-  'solve',
-  'build',
-  'crazy',
-  'sight',
-  'curry',
-  'lunch',
-]
+  'queen',
+  'royal',
+  'mourn',
+  'flags',
+  'crown',
+  'horse',
+  ]
   
