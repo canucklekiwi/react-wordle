@@ -9547,7 +9547,7 @@ export const VALID_GUESSES = [
   'sangs',
   'sanko',
   'sansa',
-  'santo',
+  'santa',
   'sants',
   'saola',
   'sapan',
