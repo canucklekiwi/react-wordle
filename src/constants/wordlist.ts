@@ -1,11 +1,11 @@
 export const WORDS = [
-  'queen',
-  'royal',
-  'mourn',
-  'flags',
-  'crown',
-  'horse',
-  'reign',
-  'ruler',
+  'snowy',
+  'gifts',
+  'light',
+  'hymns',
+  'carol',
+  'green',
+  'bites',
+  'santa',
   ]
   
