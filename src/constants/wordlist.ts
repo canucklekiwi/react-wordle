@@ -5,5 +5,8 @@ export const WORDS = [
   'coast',
   'order',
   'teams',
+  'model',
+  'plans',
+  'úsers',
   ]
   
