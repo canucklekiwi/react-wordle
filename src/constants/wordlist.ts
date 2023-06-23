@@ -7,6 +7,6 @@ export const WORDS = [
   'teams',
   'model',
   'plans',
-  'úsers',
+  'users',
   ]
   
